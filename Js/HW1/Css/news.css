@@ -1,0 +1,45 @@
+body{
+    background-color: darkgray;
+}
+
+.nav {
+    width: 100vw;
+    height: 45px;
+    background-color: grey  ;
+    box-shadow: 0 0 18px 5px grey;
+}
+
+ul{
+    width: 100vw;
+    padding: 10px;
+    text-align: center;
+}
+
+ul li{
+    margin-left: 3vw;
+    display: inline-block;
+}
+
+a{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+p{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    width: 50vw;
+    display: block;
+    margin: 0 auto;
+    padding-top: 25px;
+    letter-spacing: 1px;
+}
+
+img{
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+}
